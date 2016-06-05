@@ -1,0 +1,44 @@
+{
+  "Tree": "Physics",
+  "Techs": [
+    {
+      "Name": "Scientific Method",
+      "Type": "Computing",
+      "Cost": 0,
+      "Discovery": "Starting",
+      "Children": [
+        {
+          "Name": "Administrating AI",
+          "Type": "Computing",
+          "Cost": 240,
+          "Discovery": "Normal",
+          "Children": []
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "Name": "Fission Power",
+      "Type": "Industry",
+      "Cost": 0,
+      "Discovery": "Starting",
+      "Children": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "Name": "High-Energy Capacitors",
+      "Type": "Industry",
+      "Cost": 0,
+      "Discovery": "Starting",
+      "Children": [
+        {},
+        {},
+        {}
+      ]
+    }
+  ]
+}
